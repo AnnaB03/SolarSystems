@@ -15,7 +15,12 @@ public class Main {
         Planet1 Narwhal = new Planet1();
         Narwhal.color = "green";
         Narwhal.size = "1258963258km";
-        
+
+        moon2 montero=new moon2();
+        montero.color="red";
+        montero.radius="4324234234";
+        montero.lightintensity="9348lunouns";
+
 
 
     }
