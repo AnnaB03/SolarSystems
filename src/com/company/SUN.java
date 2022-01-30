@@ -2,7 +2,7 @@ package com.company;
 
 public class SUN {
     String heat;
-    String temperature;
+    int temperature;
     String radius;
 
 }
