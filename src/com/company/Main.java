@@ -12,10 +12,15 @@ public class Main {
         Solana.radius = "45454565985km";
         Solana.temperature = "1286614554c";
 
+        Planet2 perry = new Planet2();
+        perry.color = "red";
+        perry.size = "18264258km";
+
         Planet1 Narwhal = new Planet1();
         Narwhal.color = "green";
         Narwhal.size = "1258963258km";
         
+
 
 
     }
