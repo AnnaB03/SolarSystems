@@ -16,6 +16,12 @@ public class Main {
         perry.color = "red";
         perry.size = "18264258km";
 
+        Planet1 Narwhal = new Planet1();
+        Narwhal.color = "green";
+        Narwhal.size = "1258963258km";
+        
+
+
 
     }
 }
